@@ -19,6 +19,7 @@ git clone https://github.com/tjones134/TEVINS-README-GENERATOR.git
 Navigate to the project directory:
 bash
 Copy code
+
 cd TEVINS-README-GENERATOR
 Install the required dependencies:
 bash
